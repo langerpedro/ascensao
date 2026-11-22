@@ -1,7 +1,5 @@
-ASCENSÃO 3.3 — MOVIMENTO EM CAMADAS
-
-Retratos mantidos, movimento sutil de cabeça em camada independente, respiração e iluminação, reação ao toque e opção de desativar animações na tela Evolução.
-
-Nota: não é um modelo 3D nem piscar de olhos realista. A animação de cabeça é uma simulação em 2D.
-
-Faça backup antes de atualizar. Envie o conteúdo deste ZIP à raiz do GitHub Pages. Não desinstale o app.
+ASCENSÃO 4.0 — Laboratório 3D
+Instale os arquivos na raiz do GitHub Pages.
+Abra o botão ABRIR PERSONAGEM 3D para testar o protótipo geométrico articulado.
+Não são modelos realistas definitivos. A animação defeituosa em camadas foi removida.
+Backup recomendado antes de publicar. Armazenamento existente: ascensao-v1.

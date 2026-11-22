@@ -1,7 +1,7 @@
-ASCENSÃO 2.3 — Edição Neon
+ASCENSÃO 3.3 — MOVIMENTO EM CAMADAS
 
-Novidades: novo visual, ilustrações esquemáticas de movimentos na sessão guiada e aba Histórico com dados reais.
+Retratos mantidos, movimento sutil de cabeça em camada independente, respiração e iluminação, reação ao toque e opção de desativar animações na tela Evolução.
 
-Instalação: faça backup no Perfil, envie todos os arquivos desta pasta para a raiz do repositório GitHub Pages e aguarde a atualização. Não desinstale o aplicativo.
+Nota: não é um modelo 3D nem piscar de olhos realista. A animação de cabeça é uma simulação em 2D.
 
-Mantém a chave localStorage ascensao-v1. O histórico não gera XP extra.
+Faça backup antes de atualizar. Envie o conteúdo deste ZIP à raiz do GitHub Pages. Não desinstale o app.

@@ -1,0 +1,13 @@
+ASCENSÃO — versão 1.0 (PWA, sem sincronização)
+
+CONTEÚDO: index.html, manifest.webmanifest, sw.js, icon.svg, icon-192.png, icon-512.png.
+
+COMO USAR EM IPHONE E ANDROID
+1. Publique o conteúdo desta pasta em uma hospedagem estática HTTPS (por exemplo, GitHub Pages, Netlify ou Cloudflare Pages).
+2. Abra o endereço HTTPS no Safari do iPhone e use Compartilhar > Adicionar à Tela de Início.
+3. Abra o mesmo endereço no Chrome do Android e use menu > Instalar aplicativo / Adicionar à tela inicial.
+4. Cada aparelho terá seu progresso independente. Use Perfil > Exportar backup para guardar seus dados.
+
+TESTE LOCAL NO COMPUTADOR: na pasta, rode python -m http.server 8000 e abra http://localhost:8000.
+
+IMPORTANTE: apenas baixar o ZIP não publica nem instala o app no telefone. A instalação e o funcionamento offline dependem da primeira abertura do endereço HTTPS. Limpar dados do navegador pode apagar o progresso local.

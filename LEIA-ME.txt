@@ -1,5 +1,7 @@
-ASCENSÃO 4.0 — Laboratório 3D
-Instale os arquivos na raiz do GitHub Pages.
-Abra o botão ABRIR PERSONAGEM 3D para testar o protótipo geométrico articulado.
-Não são modelos realistas definitivos. A animação defeituosa em camadas foi removida.
-Backup recomendado antes de publicar. Armazenamento existente: ascensao-v1.
+ASCENSÃO 5.0 — 3D integrado e alimentação
+
+Atualização do app existente: envie TODOS os arquivos da pasta para a raiz do repositório GitHub Pages, substituindo os antigos. Exporte backup JSON antes.
+
+O perfil e a tela de treino contêm visualizadores 3D embutidos; alimentação está na navegação principal. Personagens são protótipos estilizados articulados, NÃO modelos humanos fotorrealistas ou demonstrações técnicas exatas dos exercícios.
+
+Three.js é carregado por CDN: internet necessária para o 3D. XP e treinos seguem usando a chave local ascensao-v1; cardápio e marcações usam ascensao-v5-meals.

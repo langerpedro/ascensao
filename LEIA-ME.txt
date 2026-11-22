@@ -1,3 +1,7 @@
-ASCENSÃO 2.1 — Treino guiado com séries individuais, descanso de 60 segundos, avançar/voltar e pular por desconforto.
-Envie os arquivos desta pasta para a raiz do repositório GitHub Pages.
-Faça backup antes. Não desinstale o aplicativo. O progresso permanece na chave local ascensao-v1.
+ASCENSÃO 2.3 — Edição Neon
+
+Novidades: novo visual, ilustrações esquemáticas de movimentos na sessão guiada e aba Histórico com dados reais.
+
+Instalação: faça backup no Perfil, envie todos os arquivos desta pasta para a raiz do repositório GitHub Pages e aguarde a atualização. Não desinstale o aplicativo.
+
+Mantém a chave localStorage ascensao-v1. O histórico não gera XP extra.

@@ -1,13 +1,10 @@
-ASCENSÃO — versão 1.0 (PWA, sem sincronização)
+ASCENSÃO v2.0 — Atualização segura
 
-CONTEÚDO: index.html, manifest.webmanifest, sw.js, icon.svg, icon-192.png, icon-512.png.
+1. NO APP ATUAL, vá em Perfil > Exportar backup. Guarde o JSON em Arquivos.
+2. No GitHub, abra o repositório ascensao e envie os arquivos desta pasta para a RAIZ, substituindo index.html e sw.js. Adicione combatente.webp e cacadora.webp.
+3. NÃO apague o aplicativo da tela inicial e NÃO limpe dados do Safari/Chrome.
+4. Aguarde a publicação GitHub Pages, feche e reabra o app. Talvez seja necessário abrir o link no Safari e atualizar uma vez.
+5. O armazenamento continua usando a chave ascensao-v1 para preservar seu XP, nome, missões e pesos.
+6. Se o progresso não aparecer, Perfil > Importar backup.
 
-COMO USAR EM IPHONE E ANDROID
-1. Publique o conteúdo desta pasta em uma hospedagem estática HTTPS (por exemplo, GitHub Pages, Netlify ou Cloudflare Pages).
-2. Abra o endereço HTTPS no Safari do iPhone e use Compartilhar > Adicionar à Tela de Início.
-3. Abra o mesmo endereço no Chrome do Android e use menu > Instalar aplicativo / Adicionar à tela inicial.
-4. Cada aparelho terá seu progresso independente. Use Perfil > Exportar backup para guardar seus dados.
-
-TESTE LOCAL NO COMPUTADOR: na pasta, rode python -m http.server 8000 e abra http://localhost:8000.
-
-IMPORTANTE: apenas baixar o ZIP não publica nem instala o app no telefone. A instalação e o funcionamento offline dependem da primeira abertura do endereço HTTPS. Limpar dados do navegador pode apagar o progresso local.
+Os retratos são ilustrações inspiradas no estilo escolhido.

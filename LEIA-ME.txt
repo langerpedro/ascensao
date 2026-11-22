@@ -1,7 +1,7 @@
-ASCENSÃO 5.0 — 3D integrado e alimentação
+ASCENSÃO 5.1 — Cinemática integrada
 
-Atualização do app existente: envie TODOS os arquivos da pasta para a raiz do repositório GitHub Pages, substituindo os antigos. Exporte backup JSON antes.
+Faça backup JSON no app antes de atualizar. Envie os arquivos do ZIP para a raiz do repositório. Não desinstale o PWA.
 
-O perfil e a tela de treino contêm visualizadores 3D embutidos; alimentação está na navegação principal. Personagens são protótipos estilizados articulados, NÃO modelos humanos fotorrealistas ou demonstrações técnicas exatas dos exercícios.
+Substituímos os visualizadores geométricos por sequências cinematográficas animadas em WebP. São quadros com transições, NÃO vídeo contínuo nem 3D. Cenas de treino são ilustrativas e não demonstram técnicas específicas.
 
-Three.js é carregado por CDN: internet necessária para o 3D. XP e treinos seguem usando a chave local ascensao-v1; cardápio e marcações usam ascensao-v5-meals.
+Alimentação, missões e XP seguem no aplicativo. Animações são arquivos locais e não dependem de CDN.
